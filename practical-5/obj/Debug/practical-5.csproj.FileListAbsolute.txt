@@ -1,0 +1,5 @@
+D:\dotnet\practical-5\practical-5\bin\Debug\practical-5.exe.config
+D:\dotnet\practical-5\practical-5\bin\Debug\practical-5.exe
+D:\dotnet\practical-5\practical-5\bin\Debug\practical-5.pdb
+D:\dotnet\practical-5\practical-5\obj\Debug\practical-5.exe
+D:\dotnet\practical-5\practical-5\obj\Debug\practical-5.pdb
